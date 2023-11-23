@@ -1,4 +1,4 @@
-### Olá! Eu sou o Levi Farias 👋
+### Olá! Tudo bem? Eu sou o Levi Farias 👋
 
 ![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFarias09&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFarias09&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,4 +11,4 @@
 	<img aling="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 <br>
-Gosto muito de tecnologias e estou iniciando na área de desenvolvimento Web. Pretendo aprimorar a cada dia os meus conhecimentos na área.
+Sou apaixonado por tecnologias e estou iniciando na área de desenvolvimento Web. Pretendo aprimorar a cada dia os meus conhecimentos na área.
