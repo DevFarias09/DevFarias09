@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Levi Farias 👋
 
 ![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFarias09&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFarias09&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia:
 
