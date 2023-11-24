@@ -11,4 +11,4 @@
 	<img aling="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 <br>
-Sou apaixonado por tecnologias e estou iniciando na área de desenvolvimento Web. Pretendo aprimorar a cada dia os meus conhecimentos na área.
+Gosto muito de tecnologias e estou iniciando na área de desenvolvimento Web. Pretendo aprimorar a cada dia os meus conhecimentos na área.
